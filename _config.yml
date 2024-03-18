@@ -25,7 +25,7 @@ author:
   name             : "Zhide Wang"
   pronouns         : "he/his" # example: "she/her"  
   bio              : "Modeling of decision making under uncertainty"
-  location         : "Houston"
+  location         : "College Station, TX"
   employer         : "Texas A&M University"
   uri              : # URL
   email            : "liang93429@tamu.edu" 
@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/0000-0002-6970-399X"
+  orcid            : # "http://orcid.org/0000-0002-6970-399X"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
