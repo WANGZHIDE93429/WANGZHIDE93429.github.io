@@ -15,4 +15,4 @@ analysis, case studies and procurement modeling for manufacturers and distributo
 
 Syllabus
 ======
-[syllabus](/files/teaching/IDIS 424 Syllabus Spring 2024.pdf)
+[syllabus](/files/paper1.pdf)
