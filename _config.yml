@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Zhide Wang"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "he/his" # example: "she/her"  
+  bio              : "Modeling of decision making under uncertainty"
   location         : "Houston"
-  employer         : "Red Brick University"
+  employer         : "Texas A&M University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "liang93429@tamu.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
