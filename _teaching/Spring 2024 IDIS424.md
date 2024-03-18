@@ -12,5 +12,6 @@ Applications of purchasing systems, specifically for the distribution industry; 
 strategic purchasing, supplier evaluation, global purchasing techniques, cost analysis, life cycle costing, value 
 analysis, case studies and procurement modeling for manufacturers and distributors.
 
-# Syllabus
+Syllabus
+======
 
