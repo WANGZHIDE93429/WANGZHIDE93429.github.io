@@ -15,4 +15,4 @@ analysis, case studies and procurement modeling for manufacturers and distributo
 
 Syllabus
 ======
-[IDIS 424 Syllabus Spring 2024.pdf](https://github.com/WANGZHIDE93429/WANGZHIDE93429.github.io/blob/master/_teaching/IDIS%20424%20Syllabus%20Spring%202024.pdf)
+[syllabus](/files/teaching/IDIS 424 Syllabus Spring 2024.pdf)
