@@ -2,8 +2,8 @@
 title: "Purchasing Applications in Distribution"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/Spring 2024 IDIS424
-#permalink: /teaching/IDIS 424 Syllabus Spring 2024.pdf
+#permalink: /teaching/Spring 2024 IDIS424
+permalink: /file/paper1.pdf
 venue: "Texas A&M University, Department of Technology & Industrial Distribution"
 date: 2024-01-01
 location: "College Station, TX, USA"
