@@ -13,4 +13,4 @@ strategic purchasing, supplier evaluation, global purchasing techniques, cost an
 analysis, case studies and procurement modeling for manufacturers and distributors.
 
 # Syllabus
-[syllabus](/files/paper1.pdf)
+
