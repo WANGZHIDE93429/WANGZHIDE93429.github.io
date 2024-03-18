@@ -21,7 +21,7 @@ repository               : "WANGZHIDE93429/WANGZHIDE93429.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "zhidewang.jpeg"
+  avatar           : "site-logo.png"
   name             : "Zhide Wang"
   pronouns         : "he/his" # example: "she/her"  
   bio              : "Modeling of decision making under uncertainty"
