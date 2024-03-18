@@ -1,6 +1,6 @@
 ---
-title: # "Teaching experience"
-collection: # teaching
+title: "Teaching experience"
+collection: teaching
 type: 
 permalink: /teaching/teach_experience
 venue: #"University 1, Department"
