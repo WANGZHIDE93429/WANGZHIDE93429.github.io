@@ -22,10 +22,10 @@ repository               : "WANGZHIDE93429/WANGZHIDE93429.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Zhide Wang"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Houston"
   employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
