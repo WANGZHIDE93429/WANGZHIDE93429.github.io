@@ -1,13 +1,15 @@
 ---
-#title: "Purchasing Applications in Distribution"
-#collection: teaching
-#type: "Undergraduate course"
-#permalink: /teaching/Spring 2024 IDIS424
-permalink: /
-#venue: "Texas A&M University, Department of Technology & Industrial Distribution"
-#date: 2024-01-01
-#location: "College Station, TX, USA"
+title: "Purchasing Applications in Distribution"
+collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/Spring 2024 IDIS424
+venue: "Texas A&M University, Department of Technology & Industrial Distribution"
+date: 2024-01-01
+location: "College Station, TX, USA"
 ---
+
+**Lecturer** 
+*2024 Spring*
 
 Applications of purchasing systems, specifically for the distribution industry; emphasis on supplier relations, 
 strategic purchasing, supplier evaluation, global purchasing techniques, cost analysis, life cycle costing, value 
