@@ -11,7 +11,7 @@ redirect_from:
 
 I am a Ph.D. candidate in the Department of Industrial and Systems Engineering, Texas A&M University. 
 
-## Research interests
+## 🧐 Research interests
 Methodologically, I study structural modeling and estimation of dynamic decision making under uncertianty for both single agent case (see my paper [Structural Estimation of Partially Observable Markov Decision Processes](https://ieeexplore.ieee.org/abstract/document/9931903)) and multi-agent (i.e., game) case.
 
 Empirically, I apply my models to 
@@ -24,7 +24,7 @@ Empirically, I apply my models to
 
   
 
-- Individual decision making under different cognitive status (see my paper [The effects of mental fatigue on effort allocation: Modeling and estimation.](https://psycnet.apa.org/journals/rev/129/6/1457/)).
+- Individual decision making under different cognitive status (see my paper [The Effects of Mental Fatigue on Effort Allocation: Modeling and Estimation.](https://psycnet.apa.org/journals/rev/129/6/1457/)).
 
   
 
