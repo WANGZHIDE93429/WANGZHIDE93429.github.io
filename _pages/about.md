@@ -9,7 +9,7 @@ redirect_from:
 
 # 👋🏻 Hi there, I am Zhide!
 
-I am a Ph.D. candidate in the Department of Industrial and Systems Engineering, Texas A&M University. 
+I am a Ph.D. candidate in the Department of Industrial and Systems Engineering, Texas A&M University. I will graduate in August, 2024, and I am actively looking for tenure track faculty positions in the areas of marketing, operations management, and industrial engineering.
 
 ## 🧐 Research interests
 Methodologically, I study structural modeling and estimation of dynamic decision making under uncertianty for both single agent case (see my paper [Structural Estimation of Partially Observable Markov Decision Processes](https://ieeexplore.ieee.org/abstract/document/9931903)) and multi-agent (i.e., game) case.
