@@ -1,6 +1,5 @@
 ---
 title: "Why Fast-food Industry Is Recession-proof?"
-name: "INFORMS"
 collection: talks
 type: "Presentation"
 permalink: /talks/2023_INFORMS
@@ -8,6 +7,8 @@ venue: "Convention Center"
 date: 2023-10-14
 location: "Phoenix, AZ, USA"
 ---
+
+*INFORMS*
 
 Business cycles are a primary driver behind firm's expansion and contraction decisions. 
 However, there is inherent uncertainty about the state of business cycle because observed economic fundamentals are only imperfect indicators of the underlying economic condition. 
