@@ -1,5 +1,6 @@
 ---
 title: "Why Fast-food Industry Is Recession-proof?"
+name: "INFORMS"
 collection: talks
 type: "Presentation"
 permalink: /talks/2023_INFORMS
