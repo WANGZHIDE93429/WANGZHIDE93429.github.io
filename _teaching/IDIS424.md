@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/Spring 2024 IDIS424
 venue: "Texas A&M University, Department of Technology & Industrial Distribution"
-date: ""
+date: 
 location: "College Station, TX, USA"
 ---
 
