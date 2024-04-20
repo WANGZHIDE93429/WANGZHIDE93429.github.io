@@ -7,36 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-# 👋🏻 Hi there, I am Zhide!
+# Zhide Wang
 
 I am a Ph.D. candidate in the Department of Industrial and Systems Engineering, Texas A&M University. I will graduate in August, 2024, and I am actively looking for tenure track faculty positions in the areas of marketing, operations management, and industrial engineering.
 
-## 🧐 Research interests
-Methodologically, I study structural modeling and estimation of dynamic decision making under uncertianty for both single agent case (see my paper [Structural Estimation of Partially Observable Markov Decision Processes](https://ieeexplore.ieee.org/abstract/document/9931903)) and multi-agent (i.e., game) case.
+## Research interests
+Structural estimation; partially observable Markov decision processes; partially observable stochastic games; retail investment; cognitive fatigue.
 
-Empirically, I apply my models to 
+## Publications
+- > **Job Market Paper** Wang, Z., Chang, Y., Yang, N., & Garcia, A. (2024). Retail Investment under Hidden Business Cycle. Available at SSRN. ([Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4754439))
 
-- The study retail investment under business cycle (see my paper [Retail Investment under Hidden Business Cycle](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4754439)).
+- Wang, Z., Chang, Y., Schmeichel, B. J., \& Garcia, A. A. (2022). The Effects of Mental Fatigue on Effort Allocation: Modeling and Estimation. *Psychological Review*, 129(6), 1457–1485. ([Link](https://par.nsf.gov/servlets/purl/10338666))
 
-  
+- Chang, Y., Garcia, A., Wang, Z., & Sun, L. (2022). Structural Estimation of Partially Observable Markov Decision Processes. *IEEE Transactions on Automatic Control*. ([Link](https://ieeexplore.ieee.org/abstract/document/9931903))
 
-  🔑 *keywords: Aggregate Fluctuations; Firm Investment; Industry Dynamics; Learning Models; Market Power; Retail Competition and Strategy; Partially Observable Stochastic Games.*
-
-  
-
-- Individual decision making under different cognitive status (see my paper [The Effects of Mental Fatigue on Effort Allocation: Modeling and Estimation.](https://psycnet.apa.org/journals/rev/129/6/1457/)).
-
-  
-
-  🔑 *keywords: mental fatigue, effort allocation.*
-
-
-
-## ⏭️ Coming up...
-
-- I will be presenting my work on retail investment at TPM conference 
-
-	⏰ May 16-18, 2024
-
-	📍The University of Texas at Austin’s McCombs School of Business
-
+## Work in Progress
+ - Zhide Wang, Nathan Yang, Yanling Chang, Yiran Liu. A sensitivity analysis of retail sectors to business cycle.
+ - Zhide Wang, Alfredo Garcia, Yanling Chang. Dynamic discrete choice with categorical perception.
