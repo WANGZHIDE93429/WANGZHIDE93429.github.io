@@ -11,12 +11,13 @@ redirect_from:
 
 I am a Ph.D. candidate in the Department of Industrial and Systems Engineering, Texas A&M University. I will graduate in August, 2024, and I am actively looking for tenure track faculty positions in the areas of marketing, operations management, and industrial engineering.
 
-## Research interests
+## Research Interests
 Structural estimation; partially observable Markov decision processes; partially observable stochastic games; retail investment; cognitive fatigue.
 
-## Publications
-> **Job Market Paper** Wang, Z., Chang, Y., Yang, N., & Garcia, A. (2024). Retail Investment under Hidden Business Cycle. Available at SSRN. ([Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4754439))
+## Job Market Paper
+> Wang, Z., Chang, Y., Yang, N., & Garcia, A. (2024). Retail Investment under Hidden Business Cycle. Available at SSRN. ([Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4754439))
 
+## Publications
 - Wang, Z., Chang, Y., Schmeichel, B. J., & Garcia, A. A. (2022). The Effects of Mental Fatigue on Effort Allocation: Modeling and Estimation. *Psychological Review*, 129(6), 1457–1485. ([Link](https://par.nsf.gov/servlets/purl/10338666))
 
 - Chang, Y., Garcia, A., Wang, Z., & Sun, L. (2022). Structural Estimation of Partially Observable Markov Decision Processes. *IEEE Transactions on Automatic Control*. ([Link](https://ieeexplore.ieee.org/abstract/document/9931903))
