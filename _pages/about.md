@@ -24,6 +24,8 @@ Structural Estimation; Partially Observable Markov Decision Processes; Partially
 
 ## Work in Progress
  - Zhide Wang, Nathan Yang. Identification of Structural Learning Models. Available at SSRN.  ([Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4906492))
- - Counterfactual (Non)Identification of Structural Learning Models.
- - Zhide Wang, Nathan Yang, Yanling Chang, Yiran Liu. A sensitivity analysis of retail sectors to aggregate fluctuations.
+ - Zhide Wang, Nathan Yang. Counterfactual (Non)Identification of Structural Learning Models.
+ - Zhide Wang, Nathan Yang, Yiran Liu. A sensitivity analysis of retail sectors to aggregate fluctuations.
+ - Lekhapriya Dheeraj Kashyap, Zhide Wang, Yanling Chang, Alfredo Garcia. Structural Modeling of Attention Allocation: an Application to Major League Baseball Umpires. 
+
    
