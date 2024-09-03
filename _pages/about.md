@@ -9,7 +9,7 @@ redirect_from:
 
 # Zhide Wang
 
-I am a Ph.D. candidate in the Department of Industrial and Systems Engineering, Texas A&M University. I graduated in August, 2024, and I am actively looking for tenure track faculty positions in the areas of marketing, operations management, and industrial engineering.
+I received a Ph.D. at the Department of Industrial and Systems Engineering, Texas A&M University in August 2024. I am actively looking for tenure track faculty positions in the areas of marketing, operations management, and industrial engineering.
 
 ## Research Interests
 Structural Estimation; Partially Observable Markov Decision Processes; Partially Observable Stochastic Games; Retail Investment; Learning Models; Cognitive Fatigue.
